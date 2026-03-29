@@ -1,0 +1,19 @@
+{
+    "fileName": "povredeal.json",
+    "workers": [
+        {
+            "id": 1,
+            "name": "Alisa",
+            "lastName": "Hrnić",
+            "workPlace": "Radnik na montaži Al stolarije",
+            "date": "2024-09-09"
+        },
+        {
+            "id": 2,
+            "name": "Admir",
+            "lastName": "Ahmić",
+            "workPlace": "Radnik na montaži Al stolarije",
+            "date": "2024-11-19"
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+  "fileName": "albowido.json",
+  "workers": [
+    {
+      "id": 1,
+      "name": "Adisa",
+      "lastName": "Mahmutagić",
+      "workPlace": "Rukovodilac službe za računovodstvo i finansije",
+      "date": "2022-01-13",
+      "zop": "2022-01-13"
+    },
+    {
+      "id": 2,
+      "name": "Haris",
+      "lastName": "Hamzić",
+      "workPlace": "Pravnik",
+      "date": "2022-03-01",
+      "zop": "2022-03-01"
+    },
+    {
+      "id": 3,
+      "name": "Senad",
+      "lastName": "Huskić",
+      "workPlace": "Kontrolor radnih naloga",
+      "date": ""
+    },
+    {
+      "id": 4,
+      "name": "Admir",
+      "lastName": "Ahmić",
+      "workPlace": "Radnik na montaži ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 5,
+      "name": "Edin",
+      "lastName": "Hasanić",
+      "workPlace": "Majstor na montaži ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 6,
+      "name": "Nermin",
+      "lastName": "Aruković",
+      "workPlace": "Majstor na montaži ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 7,
+      "name": "Latif",
+      "lastName": "Karabegović",
+      "workPlace": "Radnik na montaži ALU stolarije",
+      "date": ""
+    },
+    {
+      "id": 8,
+      "name": "Vuk",
+      "lastName": "Lukić",
+      "workPlace": "Operter CNC obradnog centra",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 9,
+      "name": "Sabahudin",
+      "lastName": "Bašić",
+      "workPlace": "Radnik na lajsnanju",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 10,
+      "name": "Nada",
+      "lastName": "Mitrović",
+      "workPlace": "Radnik na pakovanju i otpremi",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 11,
+      "name": "Dragan",
+      "lastName": "Pejić",
+      "workPlace": "Operter CNC obradnog centra",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 12,
+      "name": "Anel",
+      "lastName": "Bećirspahić",
+      "workPlace": "Mašinski inžinjer u proizvodnji",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 13,
+      "name": "Anes",
+      "lastName": "Hrnić",
+      "workPlace": "Šef proizvodnje",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 14,
+      "name": "Amela",
+      "lastName": "Hasičić",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 15,
+      "name": "Adna",
+      "lastName": "Tukić",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 16,
+      "name": "Ajla",
+      "lastName": "Ogrić",
+      "workPlace": "Radnik u tehničkoj pripremi ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 17,
+      "name": "Nermina",
+      "lastName": "Mujarić",
+      "workPlace": "Radnik u tehničkoj pripremi ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 18,
+      "name": "Ramiza",
+      "lastName": "Mujanović",
+      "workPlace": "Radnik u tehničkoj pripremi ALU stolarije",
+      "date": "2023-09-26",
+      "zop": "2023-09-26"
+    },
+    {
+      "id": 19,
+      "name": "Ibrahim",
+      "lastName": "Alibašić",
+      "workPlace": "Rukovodilac službe tehničke pripreme ALU stolarije-Mostar",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 20,
+      "name": "Amra",
+      "lastName": "Kodrić",
+      "workPlace": "Radnik u tehničkoj pripremi ALU stolarije",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 21,
+      "name": "Anela",
+      "lastName": "Hodžić-Marušić",
+      "workPlace": "Šef kontrole kvaliteta",
+      "date": ""
+    },
+    {
+      "id": 22,
+      "name": "Benjamin",
+      "lastName": "Popaja",
+      "workPlace": "Šef službe nabave",
+      "date": "2022-02-07",
+      "zop": "2022-02-07"
+    },
+    {
+      "id": 23,
+      "name": "Ajla",
+      "lastName": "Aganhodžić-Popaja",
+      "workPlace": "Stručni saradnik za kontroling",
+      "date": ""
+    },
+    {
+      "id": 24,
+      "name": "Sadmir",
+      "lastName": "Čabrić",
+      "workPlace": "Radnik na pakovanju i otpremi",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 25,
+      "name": "Mirsad",
+      "lastName": "Hrnjić",
+      "workPlace": "Radnik na pakovanju i otpremi",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 26,
+      "name": "Zoran",
+      "lastName": "Stanić",
+      "workPlace": "Radnik na pakovanju i otpremi",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 27,
+      "name": "Nikša",
+      "lastName": "Todorović",
+      "workPlace": "Operter CNC obradnog centra",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 28,
+      "name": "Izet",
+      "lastName": "Bekrić",
+      "workPlace": "Radnik na pakovanju i otpremi",
+      "date": ""
+    },
+    {
+      "id": 29,
+      "name": "Besima",
+      "lastName": "Zilkić",
+      "workPlace": "Magaciner reprometrije",
+      "date": ""
+    }
+  ]
+}

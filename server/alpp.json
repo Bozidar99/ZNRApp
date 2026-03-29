@@ -1,0 +1,25 @@
+{
+    "alpp": [
+        {
+            "id": 1,
+            "title": "S-9",
+            "stock": "11",
+            "lastDate": "2024-07-12",
+            "nextDate": "2025-01-12"
+        },
+        {
+            "id": 2,
+            "title": "Co2-5",
+            "stock": 3,
+            "lastDate": "2024-07-12",
+            "nextDate": "2025-01-12"
+        },
+        {
+            "id": 3,
+            "title": "Hidrant",
+            "stock": 1,
+            "lastDate": "2024-07-12",
+            "nextDate": "2025-07-12"
+        }
+    ]
+}

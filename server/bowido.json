@@ -1,0 +1,1301 @@
+{
+  "fileName": "bowido.json",
+  "workers": [
+    {
+      "id": 1,
+      "name": "Belmin",
+      "lastName": "Zilkić",
+      "workPlace": "Operater Centra za varenje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 2,
+      "name": "Almedina",
+      "lastName": "Čabrić",
+      "workPlace": "Završni kontrolir",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 3,
+      "name": "Emir",
+      "lastName": "Šehić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 4,
+      "name": "Elvir",
+      "lastName": "Hasanić",
+      "workPlace": "Operater reznog centra",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 5,
+      "name": "Nazifa",
+      "lastName": "Ćosatović",
+      "workPlace": "Čistačica",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 6,
+      "name": "Mehmedalija",
+      "lastName": "Alićehajić",
+      "workPlace": "Radnik u skladištu",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 7,
+      "name": "Naida",
+      "lastName": "Sejmenović",
+      "workPlace": "Radnik na postavljanju lajsni",
+      "date": "2022-01-13",
+      "zop": "2022-01-13"
+    },
+    {
+      "id": 8,
+      "name": "Melita",
+      "lastName": "Buljubašić",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 9,
+      "name": "Mensur",
+      "lastName": "Suljkanović",
+      "workPlace": "Rukovodilac službe održavanja",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Zapaljive tečnosti i gasovi"
+    },
+    {
+      "id": 10,
+      "name": "Denis",
+      "lastName": "Jašarević",
+      "workPlace": "Portir",
+      "date": "2021-12-08",
+      "zop": "2021-12-08"
+    },
+    {
+      "id": 11,
+      "name": "Avdo",
+      "lastName": "Delić",
+      "workPlace": "Poslovođa u proizvodnji",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 12,
+      "name": "Eldar",
+      "lastName": "Hajrulahović",
+      "workPlace": "Mehaničar za održavanje mašina",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "firstAid": "yes"
+    },
+    {
+      "id": 13,
+      "name": "Alem",
+      "lastName": "Mahmić",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2021-11-30",
+      "zop": "2021-11-30"
+    },
+    {
+      "id": 14,
+      "name": "Elza",
+      "lastName": "Hasičić",
+      "workPlace": "Radik na doradi PVC stolarije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 15,
+      "name": "Zahid",
+      "lastName": "Odobašić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 16,
+      "name": "Samir",
+      "lastName": "Bradarić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2021-12-06",
+      "zop": "2021-12-06"
+    },
+    {
+      "id": 17,
+      "name": "Sedin",
+      "lastName": "Bradarić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2021-12-02",
+      "zop": "2021-12-02"
+    },
+    {
+      "id": 18,
+      "name": "Zlatan",
+      "lastName": "Hasičić",
+      "workPlace": "Operater Centra za varenje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 19,
+      "name": "Fadila",
+      "lastName": "Mujkanović",
+      "workPlace": "Operater reznog centra",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 20,
+      "name": "Damir",
+      "lastName": "Didić",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 21,
+      "name": "Melisa",
+      "lastName": "Buljubašić",
+      "workPlace": "Magaciner proizvodnje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 22,
+      "name": "Jovan",
+      "lastName": "Smajić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 23,
+      "name": "Fatima",
+      "lastName": "Hadžikadunić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 24,
+      "name": "Mirsada",
+      "lastName": "Hadžimujić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 25,
+      "name": "Branko",
+      "lastName": "Poljašević",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 26,
+      "name": "Amra",
+      "lastName": "Selimović",
+      "workPlace": "Mašinski inžinjer u proizvodnji",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 27,
+      "name": "Ajdin",
+      "lastName": "Ahmetović",
+      "workPlace": "Radnik u skladištu",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 28,
+      "name": "Kenan",
+      "lastName": "Huskić",
+      "workPlace": "Radnik u skladištu",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 29,
+      "name": "Amir",
+      "lastName": "Muratović",
+      "workPlace": "Stručni saradnik za računovodstvo i finansije",
+      "date": "2021-12-06",
+      "zop": "2021-12-06"
+    },
+    {
+      "id": 30,
+      "name": "Maid",
+      "lastName": "Starčević",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 31,
+      "name": "Samir",
+      "lastName": "Hasičić",
+      "workPlace": "Poslovođa u proizvodnji",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "firstAid": "yes"
+    },
+    {
+      "id": 32,
+      "name": "Benjamin",
+      "lastName": "Tukić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 33,
+      "name": "Sead",
+      "lastName": "Jusičić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2021-12-06",
+      "zop": "2021-12-06"
+    },
+    {
+      "id": 34,
+      "name": "Elvis",
+      "lastName": "Škiljo",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 35,
+      "name": "Samir",
+      "lastName": "Buljubašić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 36,
+      "name": "Sadmir",
+      "lastName": "Omerčić",
+      "workPlace": "Poslovođa u proizvodnji",
+      "date": "2021-12-06",
+      "zop": "2021-12-06"
+    },
+    {
+      "id": 37,
+      "name": "Admir",
+      "lastName": "Čajić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 38,
+      "name": "Ervin",
+      "lastName": "Fehrić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 39,
+      "name": "Almir",
+      "lastName": "Klepić",
+      "workPlace": "Operater mašine za okivanje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 40,
+      "name": "Eldar",
+      "lastName": "Karić",
+      "workPlace": "OPerater na održavanju CNC mašina",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 41,
+      "name": "Saša",
+      "lastName": "Ilić",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 42,
+      "name": "Nataša",
+      "lastName": "Lazarević",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2021-12-07",
+      "zop": "2021-12-07",
+      "firstAid": "yes"
+    },
+    {
+      "id": 43,
+      "name": "Ermina",
+      "lastName": "Hamzić",
+      "workPlace": "Procesni kontrolor",
+      "date": "2021-12-07",
+      "zop": "2021-12-07"
+    },
+    {
+      "id": 44,
+      "name": "Azra",
+      "lastName": "Skulić",
+      "workPlace": "Radnik u tehničkoj preipremi PVC stolarije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 45,
+      "name": "Faruk",
+      "lastName": "Mrkanović",
+      "workPlace": "Poslovođa u proizvodnji",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 46,
+      "name": "Rukib",
+      "lastName": "Mehinović",
+      "workPlace": "Operater CNC obradnog centra",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 47,
+      "name": "Edib",
+      "lastName": "Kupusović",
+      "workPlace": "Planer proizvodnje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 48,
+      "name": "ALeksa",
+      "lastName": "Pejić",
+      "workPlace": "Operater CNC obradnog centra",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 49,
+      "name": "Alminko",
+      "lastName": "Hozić",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2021-12-07",
+      "zop": "2021-12-07"
+    },
+    {
+      "id": 50,
+      "name": "Ramiz",
+      "lastName": "Kotorić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2022-02-07",
+      "zop": "2022-02-07"
+    },
+    {
+      "id": 51,
+      "name": "Edin",
+      "lastName": "Nalić",
+      "workPlace": "Viljuškarista",
+      "date": "2024-12-10",
+      "zop": "2024-12-10",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 52,
+      "name": "Amra",
+      "lastName": "Starčević",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 53,
+      "name": "Belma",
+      "lastName": "Meškić",
+      "workPlace": "Stručni saradnik za računovodstvo i finansije",
+      "date": "2022-02-11",
+      "zop": "2022-02-11"
+    },
+    {
+      "id": 54,
+      "name": "Adisa",
+      "lastName": "Mahmutagić",
+      "workPlace": "Šef službe za radčunovodstvo i finansije",
+      "date": "2022-01-13",
+      "zop": "2022-01-13"
+    },
+    {
+      "id": 55,
+      "name": "Erna",
+      "lastName": "Zulić",
+      "workPlace": "Referent za kvalitet i standard",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 56,
+      "name": "Midhat",
+      "lastName": "Suljić",
+      "workPlace": "Radnik za staklenje i postavljanje lajsni",
+      "date": "2021-12-08",
+      "zop": "2021-12-08"
+    },
+    {
+      "id": 57,
+      "name": "Mersudin",
+      "lastName": "Muslija",
+      "workPlace": "Specijalista za servis softvera",
+      "date": "2022-02-07",
+      "zop": "2022-02-07"
+    },
+    {
+      "id": 58,
+      "name": "Armin",
+      "lastName": "Ćosatović",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 59,
+      "name": "Muharem",
+      "lastName": "Mujkanović",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 60,
+      "name": "Alan",
+      "lastName": "Aličić",
+      "workPlace": "Kontrolor naloga u proizvodnji",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 61,
+      "name": "Edin",
+      "lastName": "Džanić",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 62,
+      "name": "Nisvet",
+      "lastName": "Sejmanović",
+      "workPlace": "Radnik na postavljanju lajsni",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 63,
+      "name": "Almina",
+      "lastName": "Kikić",
+      "workPlace": "Planer proizvodnje",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 64,
+      "name": "Selim",
+      "lastName": "Hadžikadunić",
+      "workPlace": "Bravar/varioc",
+      "date": ""
+    },
+    {
+      "id": 65,
+      "name": "Bahrudin",
+      "lastName": "Nurkanović",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2022-01-13",
+      "zop": "2022-01-13",
+      "mas": "Mosna dizalica"
+    },
+    {
+      "id": 66,
+      "name": "Danijel",
+      "lastName": "Jović",
+      "workPlace": "Operater reznog centra",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 67,
+      "name": "Selim",
+      "lastName": "Škiljo",
+      "workPlace": "Referent za reklamacije i standard",
+      "date": "2022-02-07",
+      "zop": "2022-02-07"
+    },
+    {
+      "id": 68,
+      "name": "Sanjin",
+      "lastName": "Kotroić",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2022-08-26",
+      "zop": "2022-08-26"
+    },
+    {
+      "id": 69,
+      "name": "Dženita",
+      "lastName": "Čamdžić",
+      "workPlace": "Referent u računovodstvu",
+      "date": "2022-03-01",
+      "zop": "2022-03-01"
+    },
+    {
+      "id": 70,
+      "name": "Benjamin",
+      "lastName": "Popaja",
+      "workPlace": "Rukovodilac službe nabave",
+      "date": "2022-02-07",
+      "zop": "2022-02-07"
+    },
+    {
+      "id": 71,
+      "name": "Haris",
+      "lastName": "Hamzić",
+      "workPlace": "Rukovodilac službe za opće,pravne i kdrovske poslove",
+      "date": "2022-03-01",
+      "zop": "2022-03-01"
+    },
+    {
+      "id": 72,
+      "name": "Ajla",
+      "lastName": "Aganhodžić-Popaja",
+      "workPlace": "Stručni saradnik za kontroling",
+      "date": ""
+    },
+    {
+      "id": 73,
+      "name": "Azra",
+      "lastName": "Ćosić",
+      "workPlace": "Radnik u tehničkoj preipremi PVC stolarije",
+      "date": "2022-08-26",
+      "zop": "2022-08-26"
+    },
+    {
+      "id": 74,
+      "name": "Adnan",
+      "lastName": "Bećirodobašić",
+      "workPlace": "Operater reznog centra",
+      "date": "2022-08-26",
+      "zop": "2022-08-26"
+    },
+    {
+      "id": 75,
+      "name": "Erna",
+      "lastName": "Alićehajić",
+      "workPlace": "Referent nabave",
+      "date": "2022-05-10",
+      "zop": "2022-05-10"
+    },
+    {
+      "id": 76,
+      "name": "Aleksandar",
+      "lastName": "Božić",
+      "workPlace": "Radnik u tehničkoj preipremi PVC stolarije",
+      "date": "2022-05-10",
+      "zop": "2022-05-10"
+    },
+    {
+      "id": 77,
+      "name": "Amra",
+      "lastName": "Hrnjić",
+      "workPlace": "Specijalista za servis softvera",
+      "date": "2022-05-10",
+      "zop": "2022-05-10"
+    },
+    {
+      "id": 78,
+      "name": "Dilaver",
+      "lastName": "Mujić",
+      "workPlace": "Šef skladišta reprometrije",
+      "date": "2022-08-26",
+      "zop": "2022-08-26"
+    },
+    {
+      "id": 79,
+      "name": "Amela",
+      "lastName": "Bedak",
+      "workPlace": "Rukovodilac službe kontrole kvaliteta",
+      "date": ""
+    },
+    {
+      "id": 80,
+      "name": "Nadir",
+      "lastName": "Ibrahimović",
+      "workPlace": "Operater reznog centra",
+      "date": "2022-06-21",
+      "zop": "2022-06-21"
+    },
+    {
+      "id": 81,
+      "name": "Violeta",
+      "lastName": "Jović Petrović",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2022-06-21",
+      "zop": "2022-06-21"
+    },
+    {
+      "id": 82,
+      "name": "Biljan",
+      "lastName": "Miljić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2022-06-21",
+      "zop": "2022-06-21"
+    },
+    {
+      "id": 83,
+      "name": "Ammar",
+      "lastName": "Omerčić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2021-11-30",
+      "zop": "2021-11-30"
+    },
+    {
+      "id": 84,
+      "name": "Ela",
+      "lastName": "Halilhodžić",
+      "workPlace": "Referent u računovodstvu",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 85,
+      "name": "Aldin",
+      "lastName": "Aldobašić",
+      "workPlace": "Operater Centra za varenje",
+      "date": "2022-08-22",
+      "zop": "2022-08-22"
+    },
+    {
+      "id": 86,
+      "name": "Almin",
+      "lastName": "Muminović",
+      "workPlace": "Operater reznog centra",
+      "date": "2022-08-22",
+      "zop": "2022-08-22"
+    },
+    {
+      "id": 87,
+      "name": "Samir",
+      "lastName": "Tokmaković",
+      "workPlace": "Radnik u skladištu",
+      "date": "2022-08-22",
+      "zop": "2022-08-22",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 88,
+      "name": "Miha",
+      "lastName": "Elez",
+      "workPlace": "Operater Centra za varenje",
+      "date": "2022-08-22",
+      "zop": "2022-08-22"
+    },
+    {
+      "id": 89,
+      "name": "Amel",
+      "lastName": "Halilović",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2022-08-22",
+      "zop": "2022-08-22"
+    },
+    {
+      "id": 90,
+      "name": "Vladan",
+      "lastName": "Đekić",
+      "workPlace": "Mehaničar za održavanje mašina",
+      "date": "2022-08-22",
+      "zop": "2022-08-22"
+    },
+    {
+      "id": 91,
+      "name": "Nemanja",
+      "lastName": "Srdić",
+      "workPlace": "Operater ćeonog frezera",
+      "date": "2022-08-26",
+      "zop": "2022-08-26"
+    },
+    {
+      "id": 92,
+      "name": "Mirela",
+      "lastName": "Mulić",
+      "workPlace": "Specijalista za servis softvera",
+      "date": "2022-09-13",
+      "zop": "2022-09-13"
+    },
+    {
+      "id": 93,
+      "name": "Arijana",
+      "lastName": "Huskić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2022-09-13",
+      "zop": "2022-09-13"
+    },
+    {
+      "id": 94,
+      "name": "Asmir",
+      "lastName": "Hadžikadunić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2022-09-13",
+      "zop": "2022-09-13"
+    },
+    {
+      "id": 95,
+      "name": "Merima",
+      "lastName": "Šator",
+      "workPlace": "Referent u računovodstvu",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 96,
+      "name": "Sabir",
+      "lastName": "Muhamedović",
+      "workPlace": "Radnik na staklenju",
+      "date": "2022-10-12",
+      "zop": "2022-10-12"
+    },
+    {
+      "id": 97,
+      "name": "Ramo",
+      "lastName": "Pepelar",
+      "workPlace": "Poslovođa",
+      "date": "2022-10-12",
+      "zop": "2022-10-12",
+      "firstAid": "yes"
+    },
+    {
+      "id": 98,
+      "name": "Halisa",
+      "lastName": "Šuta",
+      "workPlace": "Radnik na tehničkoj pripremi PVC stolarije",
+      "date": "2022-10-12",
+      "zop": "2022-10-12",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 99,
+      "name": "Selma",
+      "lastName": "Šljivić",
+      "workPlace": "Radnik na tehničkoj pripremi PVC stolarije",
+      "date": "2022-10-12",
+      "zop": "2022-10-12",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 100,
+      "name": "Sunita",
+      "lastName": "Jusufspahić-Gosto",
+      "workPlace": "Radnik na tehničkoj pripremi PVC stolarije",
+      "date": "2022-10-12",
+      "zop": "2022-10-12",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 101,
+      "name": "Anđela",
+      "lastName": "Tabaković",
+      "workPlace": "Referent u računovodstvu",
+      "date": ""
+    },
+    {
+      "id": 102,
+      "name": "Berina",
+      "lastName": "Aruković",
+      "workPlace": "Referent u tehničkoj pripremi",
+      "date": ""
+    },
+    {
+      "id": 103,
+      "name": "Samra",
+      "lastName": "Amidžić-Sejmanović",
+      "workPlace": "Rukovodilac službe tehničke pripreme",
+      "date": ""
+    },
+    {
+      "id": 104,
+      "name": "Adis",
+      "lastName": "Mehičić",
+      "workPlace": "Procesni kontrolor",
+      "date": "2023-01-19",
+      "zop": "2023-01-19"
+    },
+    {
+      "id": 105,
+      "name": "Nermin",
+      "lastName": "Delić",
+      "workPlace": "Radnik na pakovanju",
+      "date": ""
+    },
+    {
+      "id": 106,
+      "name": "Meliha",
+      "lastName": "Buljubašić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": ""
+    },
+    {
+      "id": 107,
+      "name": "Elma",
+      "lastName": "Starčević",
+      "workPlace": "Ulazni kontrolor",
+      "date": "2023-04-03",
+      "zop": "2023-04-03"
+    },
+    {
+      "id": 108,
+      "name": "Hasib",
+      "lastName": "Halilović",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2023-03-13",
+      "zop": "2023-03-13"
+    },
+    {
+      "id": 109,
+      "name": "Dragan",
+      "lastName": "Predojević",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-12-10",
+      "zop": "2024-12-10"
+    },
+    {
+      "id": 110,
+      "name": "Bojan",
+      "lastName": "Gojković",
+      "workPlace": "Poslovođa u skladištu",
+      "date": "2023-04-03",
+      "zop": "2023-04-03",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 111,
+      "name": "Dalibor",
+      "lastName": "Ignjatović",
+      "workPlace": "Operater Centra za varenje",
+      "date": "2023-04-03",
+      "zop": "2023-04-03"
+    },
+    {
+      "id": 112,
+      "name": "Dario",
+      "lastName": "Tripić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2023-04-03",
+      "zop": "2023-04-03"
+    },
+    {
+      "id": 113,
+      "name": "Nemanja",
+      "lastName": "Zelenković",
+      "workPlace": "Radnik u skladištu",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 114,
+      "name": "Danijel",
+      "lastName": "Cvijanović",
+      "workPlace": "Radnik u skladištu",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 115,
+      "name": "Harun",
+      "lastName": "Hotić",
+      "workPlace": "Projekt menadžer",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 116,
+      "name": "Vesna",
+      "lastName": "Miletić",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 117,
+      "name": "Biljana",
+      "lastName": "Petrović",
+      "workPlace": "Referent nabave",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 118,
+      "name": "Šeherzada",
+      "lastName": "Đulbić",
+      "workPlace": "Referent nabave",
+      "date": "2023-05-12",
+      "zop": "2023-05-12"
+    },
+    {
+      "id": 119,
+      "name": "Azra",
+      "lastName": "Mulalić",
+      "workPlace": "Radnik u tehničkoj preipremi PVC stolarije",
+      "date": "2023-06-13",
+      "zop": "2023-06-13"
+    },
+    {
+      "id": 120,
+      "name": "Magdalena",
+      "lastName": "Cakalin",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2023-06-13",
+      "zop": "2023-06-13"
+    },
+    {
+      "id": 121,
+      "name": "Željana",
+      "lastName": "Pavlović",
+      "workPlace": "Magaciner reprometrije",
+      "date": "2023-06-13",
+      "zop": "2023-06-13"
+    },
+    {
+      "id": 122,
+      "name": "Nenad",
+      "lastName": "Đokić",
+      "workPlace": "Radnik na montaži prozora",
+      "date": "2023-08-23",
+      "zop": "2023-08-23"
+    },
+    {
+      "id": 123,
+      "name": "Mladenko",
+      "lastName": "Pavlović",
+      "workPlace": "Operater reznog centra",
+      "date": "2023-08-23",
+      "zop": "2023-08-23"
+    },
+    {
+      "id": 124,
+      "name": "Edin",
+      "lastName": "Skluić",
+      "workPlace": "Referent nabave",
+      "date": "2023-08-23",
+      "zop": "2023-08-23"
+    },
+    {
+      "id": 125,
+      "name": "Sanela",
+      "lastName": "Strigić",
+      "workPlace": "Završni kontrolir",
+      "date": "2023-09-21",
+      "zop": "2023-09-21"
+    },
+    {
+      "id": 126,
+      "name": "Sakib",
+      "lastName": "Deljkić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2023-09-21",
+      "zop": "2023-09-21"
+    },
+    {
+      "id": 127,
+      "name": "Vladan",
+      "lastName": "Todić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2023-10-11",
+      "zop": "2023-10-11"
+    },
+    {
+      "id": 128,
+      "name": "Elmir",
+      "lastName": "Pašić",
+      "workPlace": "Prodajni predstavnik",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 129,
+      "name": "Haris",
+      "lastName": "Hećo",
+      "workPlace": "Prodajni predstavnik",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 130,
+      "name": "Andrea",
+      "lastName": "Jović",
+      "workPlace": "Završni kontrolor",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 131,
+      "name": "Selma",
+      "lastName": "Ahmetlić",
+      "workPlace": "Procesni kontrolor",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 132,
+      "name": "Maid",
+      "lastName": "Hadžikadunić-Avdić",
+      "workPlace": "Planer proizvodnje",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 133,
+      "name": "Amer",
+      "lastName": "Ibraković",
+      "workPlace": "Radnik u poriizvodnji PVC stolarije",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 134,
+      "name": "Samra",
+      "lastName": "Salkić",
+      "workPlace": "Samostalni referent u tehničkoj preipremi",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 135,
+      "name": "Dženana",
+      "lastName": "Dedić-Hasanić",
+      "workPlace": "Planer proizvodnje",
+      "date": "2023-11-30",
+      "zop": "2023-11-30"
+    },
+    {
+      "id": 136,
+      "name": "Almedina",
+      "lastName": "Ibraković",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": ""
+    },
+    {
+      "id": 137,
+      "name": "Damir",
+      "lastName": "Babić",
+      "workPlace": "Referent za računovodstvo i finansije",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 138,
+      "name": "Najdin",
+      "lastName": "Omerčić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 139,
+      "name": "Dajana",
+      "lastName": "Pajić",
+      "workPlace": "Operater čeonog frezera",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 140,
+      "name": "Zlatan",
+      "lastName": "Okrajac",
+      "workPlace": "Radnik u skladištu",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 141,
+      "name": "Emir",
+      "lastName": "Hajrić",
+      "workPlace": "Portir",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 142,
+      "name": "Svjetlana",
+      "lastName": "Todorović",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-02-20",
+      "zop": "2024-02-20"
+    },
+    {
+      "id": 143,
+      "name": "Ajla",
+      "lastName": "Subašić",
+      "workPlace": "Referent za računovodstvo i finansije",
+      "date": ""
+    },
+    {
+      "id": 144,
+      "name": "Denis",
+      "lastName": "Mulasmajić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": ""
+    },
+    {
+      "id": 145,
+      "name": "Samir",
+      "lastName": "Đerzić",
+      "workPlace": "Tehnički direktor",
+      "date": ""
+    },
+    {
+      "id": 146,
+      "name": "Božidar",
+      "lastName": "Bajović",
+      "workPlace": "Referent ZNR i ZOP",
+      "date": ""
+    },
+    {
+      "id": 147,
+      "name": "Mina",
+      "lastName": "Hrvić",
+      "workPlace": "Stručni saradnik za ljudske resurse",
+      "date": "2024-09-04",
+      "zop": "2024-09-04"
+    },
+    {
+      "id": 148,
+      "name": "Marko",
+      "lastName": "Đedović",
+      "workPlace": "Radnik u skladištu",
+      "date": ""
+    },
+    {
+      "id": 149,
+      "name": "Enida",
+      "lastName": "Čehajić",
+      "workPlace": "Referent nabave",
+      "date": "2024-09-04",
+      "zop": "2024-09-04"
+    },
+    {
+      "id": 150,
+      "name": "Elvis",
+      "lastName": "Sinanović",
+      "workPlace": "Viljuškarista",
+      "date": "2024-10-02",
+      "zop": "2024-10-02",
+      "mas": "Viljuškar"
+    },
+    {
+      "id": 151,
+      "name": "Ahmed",
+      "lastName": "Bečić",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-10-02",
+      "zop": "2024-10-02"
+    },
+    {
+      "id": 152,
+      "name": "Mirnes",
+      "lastName": "Čajić",
+      "workPlace": "Radnik na montaži vrata",
+      "date": "2024-10-02",
+      "zop": "2024-10-02"
+    },
+    {
+      "id": 153,
+      "name": "Adelisa",
+      "lastName": "Alić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": ""
+    },
+    {
+      "id": 154,
+      "name": "Jovan",
+      "lastName": "Petrović",
+      "workPlace": "Radnik na pakovanju",
+      "date": "2024-10-31",
+      "zop": "2024-10-31"
+    },
+    {
+      "id": 155,
+      "name": "Jasmina",
+      "lastName": "Hasančević",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-10-31",
+      "zop": "2024-10-31"
+    },
+    {
+      "id": 156,
+      "name": "Lejla",
+      "lastName": "Pašić",
+      "workPlace": "Referent u računovodstvu",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 157,
+      "name": "Behidža",
+      "lastName": "Bajrović",
+      "workPlace": "Referent u računovodstvu",
+      "date": "",
+      "stat": "Neaktivan"
+    },
+    {
+      "id": 158,
+      "name": "Vahida",
+      "lastName": "Peleš",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-11-26",
+      "zop": "2024-11-26"
+    },
+    {
+      "id": 159,
+      "name": "Osman",
+      "lastName": "Novalić",
+      "workPlace": "Radnik na stakljenju",
+      "date": "2024-11-26",
+      "zop": "2024-11-26"
+    },
+    {
+      "id": 160,
+      "name": "Sadmir",
+      "lastName": "Buljubašić",
+      "workPlace": "Radnik u skladištu",
+      "date": ""
+    },
+    {
+      "id": 161,
+      "name": "Vesna",
+      "lastName": "Bašić",
+      "workPlace": "Radnik na doradi PVC stolarije",
+      "date": "2024-11-26",
+      "zop": "2024-11-26"
+    },
+    {
+      "id": 162,
+      "name": "Latif",
+      "lastName": "Karabegović",
+      "workPlace": "Radnik na stakljenju",
+      "date": ""
+    }
+  ]
+}

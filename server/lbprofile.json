@@ -1,0 +1,571 @@
+{
+    "fileName": "lbprofile.json",
+    "workers": [
+        {
+            "id": 1,
+            "name": "Nermin",
+            "lastName": "Grebić",
+            "workPlace": "Majstor u sektoru ekstruzije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 2,
+            "name": "Esmir",
+            "lastName": "Mahalbašić",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 3,
+            "name": "Ermin",
+            "lastName": "Ahmić",
+            "workPlace": "Majstor u sektoru ekstruzije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 4,
+            "name": "Sadmir",
+            "lastName": "Ogrić",
+            "workPlace": "Majstor u sektoru ekstruzije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18",
+            "mas": "Viljuškar"
+        },
+        {
+            "id": 5,
+            "name": "Almir",
+            "lastName": "Ogrić",
+            "workPlace": "Grupovođa u sektoru ekstruzije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 6,
+            "name": "Sanel",
+            "lastName": "Zekić",
+            "workPlace": "Radnik u sektoru mješaona",
+            "date": "2022-03-18",
+            "zop": "2022-03-18",
+            "mas": "Viljuškar"
+        },
+        {
+            "id": 7,
+            "name": "Smail",
+            "lastName": "Bašić",
+            "workPlace": "Grupovođa u sektoru ekstruzije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 8,
+            "name": "Nermina",
+            "lastName": "Mehinović",
+            "workPlace": "Stručni saradnik za računovodstvo",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 9,
+            "name": "Emir",
+            "lastName": "Mujkanović",
+            "workPlace": "Grupovođa u sektoru ekstruzije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18",
+            "firstAid": "yes"
+        },
+        {
+            "id": 10,
+            "name": "Elvir",
+            "lastName": "Didić",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 11,
+            "name": "Alija",
+            "lastName": "Čabrić",
+            "workPlace": "Skladišni radnik",
+            "date": "2023-09-25",
+            "zop": "2023-09-25",
+            "mas": "Viljuškar"
+        },
+        {
+            "id": 12,
+            "name": "Adnan",
+            "lastName": "Sejmanović",
+            "workPlace": "Procesni kontrolor",
+            "date": "2023-09-25",
+            "zop": "2023-09-25",
+            "firstAid": "yes"
+        },
+        {
+            "id": 13,
+            "name": "Benjamin",
+            "lastName": "Galešić",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 14,
+            "name": "Azrudin",
+            "lastName": "Vošanović",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 15,
+            "name": "Alija",
+            "lastName": "Buljubašić",
+            "workPlace": "Portir",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 16,
+            "name": "Osman",
+            "lastName": "Imamović",
+            "workPlace": "Grupovođa u sektoru ekstruzije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 17,
+            "name": "Hidajeta",
+            "lastName": "Hafizović",
+            "workPlace": "Saradnik za računovodstvo",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 18,
+            "name": "Asmir",
+            "lastName": "Muratović",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 19,
+            "name": "Elmir",
+            "lastName": "Škiljo",
+            "workPlace": "Mehaničar",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 20,
+            "name": "Meho",
+            "lastName": "Hasičić",
+            "workPlace": "Radnik u sektoru mješaona",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 21,
+            "name": "Husein",
+            "lastName": "Hasanović",
+            "workPlace": "Radnik u sektoru drobilica",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 22,
+            "name": "Asmir",
+            "lastName": "Tabaković",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 23,
+            "name": "Benjamin",
+            "lastName": "Delić",
+            "workPlace": "Radnik u logistici",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 24,
+            "name": "Rizah",
+            "lastName": "Ibraković",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 25,
+            "name": "Arnel",
+            "lastName": "Dedić",
+            "workPlace": "Grupovođa u sektoru ojačanja",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 26,
+            "name": "Saša",
+            "lastName": "Predojević",
+            "workPlace": "Grupovođa u sektoru ojačanja",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 27,
+            "name": "Zoran",
+            "lastName": "Majstorović",
+            "workPlace": "Portir",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 28,
+            "name": "Nikola",
+            "lastName": "Sauka",
+            "workPlace": "Rukovidilac skladišta i logistike",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 29,
+            "name": "Esmir",
+            "lastName": "Đuherić",
+            "workPlace": "Grupovođa u sektoru ojačanja",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 30,
+            "name": "Aldin",
+            "lastName": "Imamović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 31,
+            "name": "Fahrudin",
+            "lastName": "Ukejnović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 32,
+            "name": "Ramiz",
+            "lastName": "Kovačević",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 33,
+            "name": "Almedina",
+            "lastName": "Starčević-Isaković",
+            "workPlace": "Saradnik za računovodstvo",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 34,
+            "name": "Eldin",
+            "lastName": "Tešnjak",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 35,
+            "name": "Jasmin",
+            "lastName": "Sejmanović",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2022-03-18",
+            "zop": "2022-03-18"
+        },
+        {
+            "id": 36,
+            "name": "Davor",
+            "lastName": "Janković",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2022-06-22",
+            "zop": "2022-06-22"
+        },
+        {
+            "id": 37,
+            "name": "Elvedina",
+            "lastName": "Skulić",
+            "workPlace": "Rukovodilac sektora za pripremu materijala za ekstruziju",
+            "date": "2022-06-22",
+            "zop": "2022-06-22"
+        },
+        {
+            "id": 38,
+            "name": "Enadin",
+            "lastName": "Delić",
+            "workPlace": "Skladišni radnik",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 39,
+            "name": "Edin",
+            "lastName": "Mujkanović",
+            "workPlace": "Radnik za jednostavne poslove",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 40,
+            "name": "Benan",
+            "lastName": "Jašarević",
+            "workPlace": "Rukovodilac sektora ekstruzije",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 41,
+            "name": "Alija",
+            "lastName": "Hafizović",
+            "workPlace": "Referent prodaje",
+            "date": ""
+        },
+        {
+            "id": 42,
+            "name": "Armina",
+            "lastName": "Zarifović",
+            "workPlace": "Procesni kontrolor",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 43,
+            "name": "Tarik",
+            "lastName": "Ibrahimović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 44,
+            "name": "Senad",
+            "lastName": "Šarić",
+            "workPlace": "Grupovođa u sektoru laminacije",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 45,
+            "name": "Igor",
+            "lastName": "Đalić",
+            "workPlace": "Procesni kontrolor",
+            "date": ""
+        },
+        {
+            "id": 46,
+            "name": "Haris",
+            "lastName": "Konjić",
+            "workPlace": "Referent prodaje",
+            "date": ""
+        },
+        {
+            "id": 47,
+            "name": "Mihajlo",
+            "lastName": "Todorović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 48,
+            "name": "Elvir",
+            "lastName": "Buljubašić",
+            "workPlace": "Radnik u sektoru mješaona",
+            "date": ""
+        },
+        {
+            "id": 49,
+            "name": "Suad",
+            "lastName": "Hedžić",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 50,
+            "name": "Medina",
+            "lastName": "Abidović",
+            "workPlace": "Stručni saradnik za kontroling",
+            "date": "2022-02-07"
+        },
+        {
+            "id": 51,
+            "name": "Mehmed",
+            "lastName": "Muslija",
+            "workPlace": "Alatničar",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 52,
+            "name": "Dika",
+            "lastName": "Memagić",
+            "workPlace": "Radnik u logistici",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 53,
+            "name": "Slađana",
+            "lastName": "Knežević",
+            "workPlace": "Čistačica",
+            "date": ""
+        },
+        {
+            "id": 54,
+            "name": "Senad",
+            "lastName": "Duraković",
+            "workPlace": "Skladišni radnik",
+            "date": "2023-08-23",
+            "zop": "2023-08-23"
+        },
+        {
+            "id": 55,
+            "name": "Zehrudin",
+            "lastName": "Delić",
+            "workPlace": "Mehaničar",
+            "date": "2022-01-14",
+            "zop": "2022-01-14"
+        },
+        {
+            "id": 56,
+            "name": "Dragan",
+            "lastName": "Puzić",
+            "workPlace": "Radnik u sektoru drobilica",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 57,
+            "name": "Amer",
+            "lastName": "Aldobašić",
+            "workPlace": "Radnik u sektoru drobilica",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 58,
+            "name": "Goran",
+            "lastName": "Šuvira",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-06-20",
+            "zop": "2024-06-20"
+        },
+        {
+            "id": 59,
+            "name": "Halida",
+            "lastName": "Hrvić",
+            "workPlace": "Stručni saradnik za računovodstvo",
+            "date": "2024-09-04",
+            "zop": "2024-09-04"
+        },
+        {
+            "id": 60,
+            "name": "Izmir",
+            "lastName": "Jašarević",
+            "workPlace": "Portir",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 61,
+            "name": "Jovana",
+            "lastName": "Kosić",
+            "workPlace": "Procesni kontrolor",
+            "date": "2023-09-25",
+            "zop": "2023-09-25"
+        },
+        {
+            "id": 62,
+            "name": "Dragan",
+            "lastName": "Ninković",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2024-09-04",
+            "zop": "2024-09-04"
+        },
+        {
+            "id": 63,
+            "name": "Marko",
+            "lastName": "Sofrić",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2024-09-04",
+            "zop": "2024-09-04"
+        },
+        {
+            "id": 64,
+            "name": "Gavrilo",
+            "lastName": "Despotović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-10-02",
+            "zop": "2024-10-02"
+        },
+        {
+            "id": 65,
+            "name": "Ibro",
+            "lastName": "Kovačević",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-10-02",
+            "zop": "2024-10-02"
+        },
+        {
+            "id": 66,
+            "name": "Velibor",
+            "lastName": "Manjić",
+            "workPlace": "Skladišni radnik",
+            "date": "2024-10-02",
+            "zop": "2024-10-02"
+        },
+        {
+            "id": 67,
+            "name": "Eldin",
+            "lastName": "Čelković",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": "2024-10-31",
+            "zop": "2024-10-31"
+        },
+        {
+            "id": 68,
+            "name": "Sabahudin",
+            "lastName": "Aldobašić",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2024-10-31",
+            "zop": "2024-10-31"
+        },
+        {
+            "id": 69,
+            "name": "Hanifa",
+            "lastName": "Delić",
+            "workPlace": "Kontrolor za laminaciju profila",
+            "date": "2024-10-31",
+            "zop": "2024-10-31"
+        },
+        {
+            "id": 70,
+            "name": "Edin",
+            "lastName": "Imamović",
+            "workPlace": "Radnik u sektoru ekstruzije",
+            "date": ""
+        },
+        {
+            "id": 71,
+            "name": "Amir",
+            "lastName": "Begunić",
+            "workPlace": "Radnik u sektoru laminacije",
+            "date": "2024-11-26",
+            "zop": "2024-11-26"
+        }
+    ]
+}
